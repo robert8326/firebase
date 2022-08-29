@@ -1,0 +1,6 @@
+django~=3.2
+djangorestframework~=3.13
+firebase-auth ~=3.0
+
+# Firebase documentation
+# https://firebase.google.com/docs/reference/admin/python/firebase_admin.auth
