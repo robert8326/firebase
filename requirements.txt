@@ -1,6 +1,9 @@
-django~=3.2
-djangorestframework~=3.13
-firebase-auth ~=3.0
+django==3.2
+djangorestframework==3.13
+firebase-auth
+firebase-admin==5.3
+environs==9.5
+# django-cors-headers~=3.13
 
 # Firebase documentation
 # https://firebase.google.com/docs/reference/admin/python/firebase_admin.auth
